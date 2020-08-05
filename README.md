@@ -9,8 +9,16 @@
 ###  Looking f0r help with personal Projects:man_technologist:
 ###  💬 Ask about me, I don't bite!
      📫 Reach me on 
--   https://facebook.com/AdebowaleObaa
--   https://twitter.com/AdebowaleObaa
--   https://www.instagram.com/adebowaleobaa/
-### Fun fact: ...
--   Message me and find out :laughing:
+<p align='center'>
+<a href="https://wa.me/2349093496039?text=Hello Abdulwahab" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/AdebowaleObaa" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="http://linkedin.com/in/ibn-ashimi" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:princeadebowale3@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
