@@ -8,7 +8,7 @@
 ###  ✨ _console.log("I am awemazing:wink::relaxed:");_ ✨
 ###  Looking f0r help with personal Projects:man_technologist:
 ###  💬 Ask about me, I don't bite!
-     📫 Reach me on 
+     📫 Reach me via
 <p align='center'>
 <a href="https://wa.me/2349093496039?text=Hello Abdulwahab" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
