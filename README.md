@@ -7,7 +7,7 @@
 ### 👯 Looking to collaborate on 0pen S0urce
 ###  ✨ _console.log("I am awemazing:wink::relaxed:");_ ✨
 ###  Looking f0r help with personal Projects:man_technologist:
-###  💬 Ask about me, I don't bite!
+###  💬 Ask about me, I don't bite! lol
      📫 Reach me via
 <p align='center'>
 <a href="https://wa.me/2349093496039?text=Hello Abdulwahab" target="_blank">
