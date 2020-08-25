@@ -1,5 +1,5 @@
 ### Hi there 👋
-### :man: I am Abdulwahab Ashimi :trident:, Angular and Laravel Developer:pushpin:.
+### :man: I am Abdulwahab Ashimi :trident:, Angular and Laravel Developer :pushpin:.
      😄 Pronouns: He/Him/His
 ### 🔭 Working with Kolhab Technologies, Njohnsons Solutions and Haqqman :pushpin:.
 ### :stadium: Communities: Codenovation, GDG Gwagwalada, PHP Arewa Abuja :family_man_woman_boy_boy:.
