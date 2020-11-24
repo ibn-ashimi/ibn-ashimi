@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi, I'm Adebowale Obaa 👋🏾 👩🏾‍💻
+
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I'm a software developer who is passionate about using technology towards achieving SDGs, creating innovative solutions, open-source, and building communities. I'm building <a href="https://kolhab.com/">Kolhab Technologies</a> and <a href="https://edukarma.tech/">EduKarma</a>. I co-organize GDG Gwagwalada. I made the coveted list for the brighest and best technocrats in Nigeria. My interest in Newbies led me into creating <a href="https://www.github.com/ashimi-lair/">Ashimi Lair</a>, a fun community for beginners.
+
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## Hi there 👋
 
 ### :man: I am Abdulwahab Ashimi :trident:, Angular and Laravel Developer :pushpin:.
      😄 Pronouns: He/Him/His
