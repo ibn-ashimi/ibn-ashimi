@@ -8,11 +8,11 @@ Abdulwahab Adebowale Ashimi is a software developer who is passionate about usin
 
 ##### General Statistics
 
-[![Ashimi's Github Stats](https://github-readme-stats.vercel.app/api?username=ibn-ashimi#&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ibn-ashimi)
+[![Ashimi's Github Stats](https://github-readme-stats.vercel.app/api?username=ibn-ashimi&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ibn-ashimi)
 
 ##### Languages/Tools/Stack
 
-[![Mane Olawale's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ibn-ashimi&show_icons=true&theme=nightowl)](https://github.com/ibn-ashimi)
+[![Ashimi's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ibn-ashimi&show_icons=true&theme=nightowl)](https://github.com/ibn-ashimi)
 
 ## Find me around the web 🌎: <!--a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a-->
 - Learning in public on <a href="https://blog.ashimi.xyz/">Blog.ashimi.xyz</a> 📹 ✍🏾
