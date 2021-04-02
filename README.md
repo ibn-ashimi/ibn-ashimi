@@ -6,6 +6,8 @@ Abdulwahab Adebowale Ashimi is a software developer who is passionate about usin
 ## 🌱 Projects: 
 - Building [EduKarma](https://edukarma.tech) to help africans with affordable & quality technical knowledge.
 
+
+
 ##### General Statistics
 
 [![Ashimi's Github Stats](https://github-readme-stats.vercel.app/api?username=ibn-ashimi&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ibn-ashimi)
